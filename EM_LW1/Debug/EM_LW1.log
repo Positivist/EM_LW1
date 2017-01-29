@@ -1,0 +1,3 @@
+﻿  EM_LW1.cpp
+d:\projects\em_lw1\em_lw1\em_lw1.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  EM_LW1.vcxproj -> D:\Projects\EM_LW1\Debug\EM_LW1.exe
