@@ -30,5 +30,6 @@ int main()
 	}
 	_gettch();
     return 0;
+//tyc-tyc tro-lo-lo
 }
 
